@@ -160,6 +160,11 @@ return [
             'url' => '/categoria'
         ],
         [
+            'text' => 'Almacenes',
+            'icon' => 'ti ti-clipboard',
+            'url' => '/almacens'
+        ],
+        [
             'text' => 'Support',
             'url' => '/support',
             'icon' => 'ti ti-help',
