@@ -1,6 +1,6 @@
 @extends('tablar::page')
 
-@section('title', 'View Almacen')
+@section('title', 'Ver Almacenes')
 
 @section('content')
     <!-- Page header -->
@@ -10,7 +10,7 @@
                 <div class="col">
                     <!-- Page pre-title -->
                     <div class="page-pretitle">
-                        View
+                        Ver
                     </div>
                     <h2 class="page-title">
                         {{ __('Almacen ') }}
