@@ -150,6 +150,11 @@ return [
             'url' => '/home'
         ],
         [
+            'text' => 'Usuarios',
+            'icon' => 'ti ti-user',
+            'url' => '/users'
+        ],
+        [
             'text' => 'Productos',
             'icon' => 'ti ti-package',
             'url' => '/productos'
